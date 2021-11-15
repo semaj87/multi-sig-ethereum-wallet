@@ -1,0 +1,27 @@
+{
+  "name": "multi-sig-ethereum-wallet",
+  "version": "1.0.0",
+  "description": "## Multi Sig Ethereum Wallet",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaymoAymer/multi-sig-ethereum-wallet.git"
+  },
+  "keywords": ["Ethereum", "DApp", "Smart Contracts", "Solidity", "Wallet", "EVM", "Blockchain", "DeFi"],
+  "author": "James Aymer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaymoAymer/multi-sig-ethereum-wallet/issues"
+  },
+  "homepage": "https://github.com/JaymoAymer/multi-sig-ethereum-wallet#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1"
+  }
+}
